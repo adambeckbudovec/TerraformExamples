@@ -1,4 +1,5 @@
-# terraFORM
+# TerraForm
+
 Migrating to AWS using Terraform typically involves creating infrastructure as code (IaC) to provision and manage AWS resources. Below is a simple example of a Terraform script to create an AWS Virtual Private Cloud (VPC), subnets, and an EC2 instance.
 
 Save the following code in a file (e.g., `aws_migration.tf`), and then run `terraform init` and `terraform apply` to apply the configuration.
